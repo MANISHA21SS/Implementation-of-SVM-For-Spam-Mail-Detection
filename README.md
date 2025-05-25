@@ -24,8 +24,11 @@ To write a program to implement the SVM For Spam Mail Detection.
 ## Program:
 /*
 Program to implement the SVM For Spam Mail Detection..
+
 Developed by: Manisha selvakumari.S.S.
+
 RegisterNumber: 212223220055
+
 */
 ```
 from google.colab import files
