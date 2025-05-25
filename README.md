@@ -74,13 +74,18 @@ accuracy
 
 ![Screenshot 2025-05-25 202422](https://github.com/user-attachments/assets/f44ea387-2427-42fb-ac57-f64c45c73536)
 
+
 ![Screenshot 2025-05-25 202437](https://github.com/user-attachments/assets/de7ef98e-d54c-4850-b3a3-fe448870d969)
+
 
 ![Screenshot 2025-05-25 202444](https://github.com/user-attachments/assets/cfa1a593-c465-474e-80a2-2a407e4b132e)
 
+
 ![Screenshot 2025-05-25 202453](https://github.com/user-attachments/assets/52e23729-8651-4a46-b740-c8deb277e77c)
 
+
 ![Screenshot 2025-05-25 202503](https://github.com/user-attachments/assets/0e875f4a-24a3-44fb-b7f1-5484afc23aa1)
+
 
 
 ## Result:
