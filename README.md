@@ -49,8 +49,9 @@ data.info()
 
 data.isnull().sum()
 
-x=data["v1"].values
 y=data["v2"].values
+x=data["v1"].values
+
 
 from sklearn.model_selection import train_test_split
 x_train,x_test,y_train,y_test=train_test_split(x,y,test_size=0.2,random_state=0)
@@ -72,19 +73,9 @@ accuracy
 
 ## Output:
 
-![Screenshot 2025-05-25 202422](https://github.com/user-attachments/assets/f44ea387-2427-42fb-ac57-f64c45c73536)
+![image](https://github.com/user-attachments/assets/4cf2253f-f0f0-479f-93ef-741cf8a601b4)
 
-
-![Screenshot 2025-05-25 202437](https://github.com/user-attachments/assets/de7ef98e-d54c-4850-b3a3-fe448870d969)
-
-
-![Screenshot 2025-05-25 202444](https://github.com/user-attachments/assets/cfa1a593-c465-474e-80a2-2a407e4b132e)
-
-
-![Screenshot 2025-05-25 202453](https://github.com/user-attachments/assets/52e23729-8651-4a46-b740-c8deb277e77c)
-
-
-![Screenshot 2025-05-25 202503](https://github.com/user-attachments/assets/0e875f4a-24a3-44fb-b7f1-5484afc23aa1)
+![image](https://github.com/user-attachments/assets/dcdcecfd-99dc-4237-9b41-be7f09c33fd9)
 
 
 
